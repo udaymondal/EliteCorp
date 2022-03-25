@@ -63,3 +63,12 @@ ul li a{
     padding-right: 2px;
     font-size: 10px;
 }
+.lead{
+    color: grey;
+}
+footer{
+    background-color: #BCA24A;
+    color: white;
+    padding: 20px;
+    text-transform: uppercase;
+}
