@@ -1,0 +1,60 @@
+.top-bar{
+    background-color: #F9F7F3;
+}
+.top-bar p{
+    color: #BCA24A;
+}
+h2,
+h5,
+.fa-circle-chevron-right,
+.psd-theme-color{
+    color: #BCA24A;
+}
+
+.navbg{
+	background-color: #FFFFFF;
+}
+ul{
+	list-style: none;
+}
+ul li a{
+	text-decoration: none;
+	color: #BCA24A;
+}
+.single-word-bg{
+    color: #BCA24A;
+    background-color: #F9F7F3;
+}
+.carousel-item img{
+    height: 600px;
+}
+.idea-section{
+    background-color: #FDFDFD;
+    color: #BCA24A;
+}
+.fa-lightbulb, .fa-gear, .fa-cloud, .fa-code{
+    font-size: 40px;
+    padding: 10px;
+}
+.card-footer-color{
+    color: #BCA24A;
+    font-weight: bold;
+}
+.form-control{
+    background-color: #FFF9EF;
+    padding-left: 30px;
+}
+.btn-custom{
+    background-color: #BCA24A;
+    color: white;
+    padding: 10px 40px;
+}
+.contact-us{
+    background-color: #F9EDD5;
+}
+.helpful-link{
+    padding: 0px;
+}
+.helpful-link li{
+    padding-bottom: 10px;
+}
