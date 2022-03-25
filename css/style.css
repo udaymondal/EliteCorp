@@ -20,6 +20,15 @@ ul {
 ul li a {
   text-decoration: none;
   color: #bca24a;
+  padding: 0 15px;
+}
+.navbg ul li a:hover{
+    color: black;
+    font-weight: bold;
+}
+.navbg ul li .active{
+	border-bottom: 1px solid #bca24a;
+    color: #bca24a;
 }
 .single-word-bg {
   color: #bca24a;
