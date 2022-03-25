@@ -57,4 +57,9 @@ ul li a{
 }
 .helpful-link li{
     padding-bottom: 10px;
+    font-weight: 600;
+}
+.fa-angle-right{
+    padding-right: 2px;
+    font-size: 10px;
 }
