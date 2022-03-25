@@ -1,75 +1,77 @@
-.top-bar{
-    background-color: #F9F7F3;
+.top-bar {
+  background-color: #f9f7f3;
 }
-.top-bar p{
-    color: #BCA24A;
+.top-bar p {
+  color: #bca24a;
 }
 h2,
 h5,
 .fa-circle-chevron-right,
-.psd-theme-color{
-    color: #BCA24A;
+.psd-theme-color {
+  color: #bca24a;
 }
 
-.navbg{
-	background-color: #FFFFFF;
+.navbg {
+  background-color: #ffffff;
 }
-ul{
-	list-style: none;
+ul {
+  list-style: none;
 }
-ul li a{
-	text-decoration: none;
-	color: #BCA24A;
+ul li a {
+  text-decoration: none;
+  color: #bca24a;
 }
-.single-word-bg{
-    color: #BCA24A;
-    background-color: #F9F7F3;
+.single-word-bg {
+  color: #bca24a;
+  background-color: #f9f7f3;
 }
-.carousel-item img{
-    height: 600px;
+.carousel-item img {
+  height: 600px;
 }
-.idea-section{
-    background-color: #FDFDFD;
-    color: #BCA24A;
+.idea-section {
+  background-color: #fdfdfd;
+  color: #bca24a;
 }
-.fa-lightbulb, .fa-gear, .fa-cloud, .fa-code{
-    font-size: 40px;
-    padding: 10px;
+.fa-lightbulb,
+.fa-gear,
+.fa-cloud,
+.fa-code {
+  font-size: 40px;
+  padding: 10px;
 }
-.card-footer-color{
-    color: #BCA24A;
-    font-weight: bold;
+.card-footer-color {
+  color: #bca24a;
+  font-weight: bold;
 }
-.form-control{
-    background-color: #FFF9EF;
-    padding-left: 30px;
+.form-control {
+  background-color: #fff9ef;
+  padding-left: 30px;
 }
-.btn-custom{
-    background-color: #BCA24A;
-    color: white;
-    padding: 10px 40px;
+.btn-custom {
+  background-color: #bca24a;
+  color: white;
+  padding: 10px 40px;
 }
-.contact-us{
-    background-color: #F9EDD5;
+.contact-us {
+  background-color: #f9edd5;
 }
-.helpful-link{
-    padding: 0px;
+.helpful-link {
+  padding: 0px;
 }
-.helpful-link li{
-    padding-bottom: 10px;
-    font-weight: 600;
+.helpful-link li {
+  padding-bottom: 10px;
+  font-weight: 600;
 }
-.fa-angle-right{
-    padding-right: 2px;
-    font-size: 10px;
+.fa-angle-right {
+  padding-right: 2px;
+  font-size: 10px;
 }
-.lead{
-    color: grey;
+.lead {
+  color: grey;
 }
-footer{
-    background-color: #BCA24A;
-    color: white;
-    padding: 20px;
-    text-transform: uppercase;
-    align-items: center;
+footer {
+  background-color: #bca24a;
+  color: white;
+  padding: 20px;
+  text-transform: uppercase;
 }
